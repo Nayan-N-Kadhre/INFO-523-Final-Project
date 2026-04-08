@@ -1,3 +1,6 @@
+
+[Colab Notebook](https://colab.research.google.com/drive/1bmnIhLuadExK_7jOSf6q7KckCHoj9OFd#scrollTo=OHLCX2kCVe3u)
+
 # Real Estate Pricing & Socioeconomic Analysis
 INFO 523 · Team 4 — Nayan Kadhre & Erik Jensen
 
@@ -7,7 +10,7 @@ Analyzing U.S. housing affordability by combining real estate listings, househol
 
 ## Datasets
 
-All datasets sourced from [Kaggle](https://www.kaggle.com). No personally identifiable information — IRB review not required.
+All datasets sourced from Kaggle. No personally identifiable information — IRB review not required.
 
 | Dataset | Records | Features |
 |---|---|---|
