@@ -14,9 +14,9 @@ All datasets sourced from Kaggle. No personally identifiable information — IRB
 
 | Dataset | Records | Features |
 |---|---|---|
-| USA Real Estate | 2,226,382 | 12 |
-| US Household Income Statistics | 32,527 | 19 |
-| US Cost of Living | 3,171 | 9 |
+| [USA Real Estate](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data) | 2,226,382 | 12 |
+| [US Household Income Statistics](https://www.kaggle.com/datasets/goldenoakresearch/us-household-income-stats-geo-locations/data) | 32,527 | 19 |
+| [US Cost of Living](https://www.kaggle.com/datasets/asaniczka/us-cost-of-living-dataset-3171-counties) | 3,171 | 9 |
 
 ## Research Questions
 
